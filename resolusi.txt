@@ -3,3 +3,4 @@ kiu
 -dua
 -tiga
 -empt ubh
+-vlog
