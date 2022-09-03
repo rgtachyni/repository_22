@@ -2,5 +2,4 @@ kiu
 -satu
 -dua
 -tiga
--empt ubh
 -vlog
