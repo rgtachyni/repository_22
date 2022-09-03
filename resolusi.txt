@@ -2,3 +2,4 @@ kiu
 -satu
 -dua
 -tiga
+-empt ubh
